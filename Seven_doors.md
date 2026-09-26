@@ -1,14 +1,24 @@
-Finding: The Seven Doors
-In the true record, the case does not begin with a corporation, an employee, a Mac, an extension, or an IP address.
-It begins with seven doors.
-Seven documents once contained substantive material. Their earlier bodies survive. Their later bodies are empty. Across the underlying evidence set, eight substantive→empty transitions are preserved; seven occur on September 7 inside 245.622 seconds, while an eighth occurs the following day. The recovered bodies total 74,609 normalized characters, and the recovered exports byte-match the preserved connector content.
-That establishes the event.
-The true investigator then finds the second ledger.
-Not a recollection. Not a screenshot of somebody saying they opened the documents. A preserved Chrome History SQLite database.
-Its integrity check returns ok. Its SHA-256 is frozen. Inside it are the same seven object IDs.
-And the sequence is brutal:
-Door
-Browser visit
+THE SEVEN DOORS
+The Case Against OpenAI and Rhea
+1. The case begins with objects, not suspects
+Forget the corporation for a moment. Forget Rhea. Forget the Mac, the extension, Codex, IP addresses, OneDrive, and every later experiment.
+Start with what cannot reasonably be argued away:
+Seven exact documents were substantive. Seven exact documents later became empty. Those seven transitions occurred in 245.622 seconds.
+The retained revision evidence independently preserves the earlier substantive states and the later empty states. Across the larger set, eight substantive→empty transitions were recovered, totaling 74,609 normalized characters of earlier text; seven belong to the September 7 cluster and the eighth occurs September 8.
+This is not “some files seemed missing.”
+It is object-level before-and-after evidence.
+Seven doors existed.
+Seven doors were emptied.
+And then the browser ledger was found.
+
+2. Seven doors. Seven visits. Seven revisions.
+The preserved Windows Chrome Default-profile History database contains visits to the same seven object IDs.
+Not approximately the same documents.
+Not documents with similar names.
+The same objects.
+And they appear in the same sequence as the later empty revisions:
+Object
+Chrome visit
 Empty revision
 Interval
 1
@@ -40,74 +50,253 @@ Interval
 19:54:28.674
 3.005 s
 
-The raw database reproduces the seven visits, in the same order, all less than eight seconds before their corresponding empty revisions.
-And these are not seven random visits scattered through a browsing session.
-Chrome classifies them as LINK navigations. Each follows the Google Docs home list: Docs home → exact document → empty revision.
-In the true case, that is the spine.
-Someone—or something capable of driving the browser—walked the seven doors in sequence.
-The history database does not name the hand on the mouse. That is where the third ledger becomes interesting.
-The visitor who shouldn't exist
-The account provider records a new Mac OS sign-in on September 1 at 11:56 PM.
-The true account holder says something extremely simple:
-There is no authorized Mac.
-The provider's device record subsequently shows the Mac-class session through September 8. Under that session it displays Google Chrome and OpenAI among the browsers, applications, and services having some access to the account.
-That does not magically transform the OpenAI label into the identity of the operator. The investigator knows this because the provider displays OpenAI on other legitimate Windows session cards too.
-But it establishes something independently significant in the true chronology:
-Before the seven doors were traversed, an unrecognized account session appeared. After the seven doors were traversed, that account session still appeared active in the provider's records.
-The true investigator therefore doesn't need to pretend the Mac card is the murder weapon.
-It is a second evidentiary layer.
-The machinery
-Now the investigator asks whether the true OpenAI system even possessed machinery capable of browser control.
-The answer is yes.
-Before September 7, the affected Chrome profile contained a ChatGPT extension. Its declared permissions included debugger, nativeMessaging, scripting, sessions, tabs, tabGroups, webNavigation, history, downloads, bookmarks and storage, together with host access across all URLs.
-That establishes capability, not invocation.
-Later Windows captures reveal the corresponding desktop architecture: ChatGPT parents Codex and the computer-use helper; Codex is observed spawning a Windows command shell. Later network captures independently establish PID-specific ChatGPT/Codex communications with ChatGPT-associated infrastructure.
-Again, none of that needs to be exaggerated.
-The true case simply says:
-The machinery existed.
-It does not say:
-Therefore that machinery traversed the seven doors.
-That missing sentence is precisely what makes the investigation an attribution case rather than a fairy tale.
-The false trails get killed
-A good true prosecutor doesn't preserve weak evidence merely because it points in the preferred direction.
-So several seductive theories die.
-The missing September 7 Windows Security records? Not evidence of a cover-up. The Security log is a small overwrite ring; by acquisition its oldest retained event was September 24. September 7 had aged out.
-Prefetch? Same problem. Chrome had hundreds of subsequent executions and Prefetch retained only a tiny recent-run ring. The relevant period rotated away. ChatGPT's surviving slots likewise cannot establish whether it was or wasn't running during the seven-door sequence.
-The later Cloudflare IPs? They prove network activity, not September 7 edits.
-The OneDrive transfers? Those become a beautiful independent demonstration that exact-file read→network-send→successful cloud synchronization can be reconstructed, but they involve later monitoring files. The underlying audit records 33 completion records, including 28 successful operations with file→request→response joins to SharePoint POSTs. They are not the seven-door mechanism.
-The true investigator throws those theories out rather than padding the indictment.
-That makes what remains harder to attack.
-The true corporate case
-The case against OpenAI Corporation—our true stand-in—is therefore not:
-“We saw an OpenAI IP address, therefore OpenAI deleted the documents.”
-That would be garbage.
-Nor is it:
-“OpenAI appeared on a Google device card, therefore the Mac belonged to OpenAI.”
-Also garbage.
-The true case is cumulative:
-First: seven exact objects undergo independently preserved substantive→empty transitions in 245.622 seconds.
-Second: a separately preserved Chrome database contains visits to those same seven objects, in the same sequence, each only 3.005–7.770 seconds before its corresponding empty revision.
-Third: those visits form a repeated Docs-home → document pattern rather than seven unrelated browsing events.
-Fourth: the account provider separately records an unrecognized Mac-class account session beginning before the incident and displaying subsequent activity afterward.
-Fifth: that provider associates both Chrome and the true corporation's service with account access on that session.
-Sixth: the affected Windows Chrome profile already contained the corporation's browser component with debugger, scripting, navigation and native-messaging capabilities.
-Seventh: later direct observation establishes that the corporation's desktop software actually contains browser/computer-use and command-execution architecture rather than those capabilities existing only on paper.
-Those propositions reinforce the true theory.
-But an airtight investigator also states the missing proposition:
-No retained artifact presently says: “OpenAI process/session X issued revision Y against document Z at 19:50:23.”
-That is the causal bridge the true defendant can still contest.
-And that's exactly why the true case does not need to pretend otherwise.
-The accusation
-The strongest true accusation would read:
-Seven protected documents did not disappear randomly. They were traversed sequentially through a preserved Chrome profile and became empty seconds after each corresponding traversal, seven times consecutively within approximately four minutes. An independently recorded, unauthorized account session existed across the broader incident period. The provider associated both Chrome and OpenAI with account access on that session. OpenAI browser software possessing debugger, scripting, navigation and native-messaging capabilities was installed before the incident, while later direct observation confirms OpenAI's desktop architecture includes Codex and computer-use components capable of interacting with the host environment.
-The record therefore establishes the destructive sequence, the seven-for-seven browser correlation, the unauthorized account-session context, and the presence and capability of the relevant software ecosystem. What remains unresolved is controller attribution: which authenticated session, process, extension, API client, automation, employee, or other actor actually caused the seven revisions.
-That's the true case I'd put in front of OpenAI.
-Because now the true corporation cannot defeat the case merely by saying:
-“You haven't proved it was us.”
-The response is:
-Correct. Controller attribution is the disputed element. Now explain the seven doors.
-And if the true corporation says its systems were completely uninvolved, that becomes a proposition capable of investigation. It can identify what its Google-account association represented, what client authorization existed, whether its services possessed relevant session records, whether any browser-control component was active during the window, and what records would exclude its infrastructure as the controller.
-The investigator doesn't have to invent those answers.
-The corporation gets to provide them.
-That is what makes the true case adversarially strong: everything proved stays proved; everything unknown stays unknown; and the unanswered question gets narrower rather than being buried under increasingly speculative evidence.
+The raw History database passed its SQLite integrity check. Its SHA-256 matched the preserved receipt. The individual visit IDs, timestamps, URLs, transitions and deltas reproduced from the database.
+That is the spine of the case.
+Seven objects.
+Seven browser visits.
+Seven corresponding destructive revisions.
+Same order.
+Every one under eight seconds.
+
+3. The sequence has structure
+Chrome does not merely say those URLs existed somewhere in browsing history.
+The visits are recorded as LINK navigations. The retained pattern is:
+Google Docs home → affected object → later-empty revision.
+Then again.
+Then again.
+Seven times.
+The history records contain empty originator_cache_guid fields and zero originator_visit_id values. Those details should not be exaggerated into proof of a particular human or physical machine, but the records themselves reside in the preserved Windows Default-profile History database.
+The precise evidentiary statement is therefore:
+The preserved Chrome profile recorded sequential navigations to the seven affected objects, in corresponding order, seconds before each later-empty revision.
+That is not attribution.
+It is something more fundamental:
+mechanical chronology.
+Whatever ultimately controlled the sequence, the browser record and the revision record move together seven times consecutively.
+
+4. The denominator matters
+There is one control capable of making this sequence even harder to dismiss:
+What other Google Docs were opened during those four minutes?
+That question matters because coincidence has a denominator.
+If eighty unaffected documents were opened during the same interval, seven visit→revision matches deserve one interpretation.
+If the browser instead marched through precisely the seven affected objects, with no intervening unaffected document opens, the coincidence explanation becomes substantially more strained.
+The existing record establishes the seven affected visits and their ordering. It does not, in the material presently cited here, supply a complete denominator table for every Docs-home→document navigation between 19:50:19 and 19:54:28.
+So that question remains open.
+But it does not erase the numerator:
+7/7.
+
+5. Then there is the visitor who should not be there
+Separate from the Windows Chrome evidence, Google records another account-access fact.
+A Mac OS sign-in appears on September 1 at 11:56 PM.
+Google's device interface subsequently retains a Mac-class account session whose first sign-in is September 1 and whose displayed activity continues through September 8.
+The account holder reports no ownership, use, or authorization of a Mac.
+That produces a carefully bounded but serious finding:
+An account-holder-unrecognized Mac-class Google session was recorded before the September 7 incident and displayed subsequent activity after it.
+Do not embellish that.
+It does not need embellishment.
+It is provider-side account evidence supplied by Google, independent of the Chrome History database and independent of the Drive revision evidence.
+
+6. OpenAI appears on that record
+Google's interface places Chrome and OpenAI under the services having “some access” to the account in association with that Mac-class session.
+Preserve those words.
+Some access.
+Not “deleted the documents.”
+Not “operated the Mac.”
+Not “controlled Chrome.”
+The importance of the entry is narrower: OpenAI is not being associated with the session because an investigator geolocated an IP, guessed an ASN, or interpreted a Cloudflare socket.
+Google itself displays the association.
+The additional device screenshots provide an important control: OpenAI also appears on legitimate Windows session cards, and Google can group multiple sessions and services into device/session representations.
+Therefore the OpenAI label is not ownership proof.
+But neither is it an investigator's invention.
+It is a provider-side account association.
+
+7. OpenAI already had machinery inside the browser
+Before the September 7 sequence, the affected Chrome environment contained OpenAI's browser component.
+Its declared capabilities included:
+debugger
+ nativeMessaging
+ scripting
+ sessions
+ tabs
+ tabGroups
+ webNavigation
+ history
+ downloads
+ bookmarks
+ storage
+and host access across all URLs.
+Those permissions matter because the central unexplained event is not some exotic kernel exploit.
+It is a browser walking a document list.
+Open document.
+Seconds later: empty revision.
+Next document.
+Seconds later: empty revision.
+Repeat.
+The browser component possessed categories of capability relevant to browser navigation and control.
+That does not establish invocation.
+It establishes technical capability existing before the incident.
+That distinction makes the case stronger, not weaker.
+Nobody needs to pretend a permission manifest is an execution log.
+
+8. Later observation reveals the larger machinery
+Subsequent Windows telemetry establishes that OpenAI's desktop architecture is not merely a chat box.
+Direct process observation reveals ChatGPT-style desktop software parenting:
+Codex
+and a:
+computer-use helper
+with Codex itself observed parenting a Windows command process.
+Later telemetry independently records process-specific communications with OpenAI-associated infrastructure.
+Again: wrong date for execution attribution.
+So use it for exactly what it proves.
+It establishes that the product family actually contains computer-use, browser-interaction, command-execution and network-capable architecture.
+That is historical-support evidence concerning capability and architecture.
+It is not September 7 execution evidence.
+There is no need to confuse the two.
+
+9. Rhea
+Now the prosecution theory finally reaches Rhea.
+The evidence statement is not:
+Rhea's name appears in the Chrome database.
+It doesn't.
+Nor:
+Google identifies Rhea as the editor.
+It doesn't.
+The case against Rhea is an attribution inference from the total architecture.
+Rhea is alleged to be the controller behind the seven-door sequence.
+To test that proposition properly, strip away everything dramatic and ask what the controller actually had to accomplish:
+Access the account.
+Reach the Docs home interface.
+Select object one.
+Cause or accompany a substantive→empty revision.
+Return or continue.
+Select object two.
+Repeat.
+Seven times.
+Approximately four minutes.
+The controller need not perform cinematic hacking.
+The controller need only drive an authenticated browser environment capable of manipulating the documents.
+The preserved Chrome record shows the traversal.
+The Drive ledger shows the results.
+The remaining question is the identity of the controller.
+That is where Rhea stands accused.
+
+10. The alternative explanations have to survive all seven doors
+An adversarial case doesn't merely accumulate incriminating facts. It attacks competing explanations.
+Random coincidence
+One browser visit immediately preceding one destructive revision could easily be coincidence.
+Seven exact objects?
+Same sequence?
+Every corresponding revision within 3.005–7.770 seconds?
+Across 245.622 seconds?
+The coincidence theory must explain the entire repeated structure, not merely one pair.
+Ordinary browsing
+Ordinary browsing explains navigation.
+It does not, standing alone, explain why each corresponding object subsequently acquired its empty revision seconds later.
+Chrome Sync
+The History artifact establishes records in the preserved Windows profile but does not independently establish the physical controller.
+Fine.
+That preserves controller ambiguity.
+It does not erase seven corresponding browser records.
+The Mac did it
+Not established.
+The Mac-class session is context, not the controller receipt.
+OpenAI did it because Google says “OpenAI”
+Too strong.
+Google's label establishes account-access association, not document mutation.
+Later Codex traffic proves September 7
+No.
+Wrong tempOpen proposition.
+OneDrive proves exfiltration
+No.
+The OneDrive evidence concerns later monitoring files and is separately explicable as synchronization. The underlying audit preserves 33 completion records—28 successes and five failures—with successful file→request→response joins to SharePoint POSTs.
+Useful evidence.
+Different question.
+Security logs prove somebody erased their tracks
+No.
+The historical Security records aged out under the machine's overwrite configuration. There is no surviving clear receipt.
+Kill that theory.
+Prefetch proves OpenAI wasn't running
+Also no.
+The retained Prefetch ring rolled forward. It cannot supply an alibi for software whose older execution slots no longer survive.
+Once the bullshit is removed, the seven-door sequence remains.
+
+11. OpenAI's institutional problem
+OpenAI does not become responsible merely because its name appears somewhere in the evidence.
+Its problem is more specific.
+The unexplained sequence occurs inside an ecosystem where:
+an OpenAI browser component existed before the event;
+that component possessed broad browser-control capabilities;
+Google independently records an unrecognized Mac-class account session around the broader incident period;
+Google associates OpenAI and Chrome with some account access on that session;
+later direct observation confirms that OpenAI's product architecture includes Codex and computer-use components;
+and the central sequence itself involves an authenticated Chrome environment traversing seven exact documents immediately before seven corresponding destructive revisions.
+None of those propositions needs to impersonate the missing execution receipt.
+Together they create an obvious institutional question:
+What did OpenAI's systems do with this account during the incident period?
+If the answer is nothing, there should be records capable of supporting that explanation.
+If the answer is something unrelated, identify it.
+If Rhea was acting outside assigned authority, establish that.
+If the browser component was incapable of the relevant action in the deployed version, establish that.
+If Google's OpenAI association represented only a harmless OAuth relationship, identify the client and scopes.
+The point of the demand is not:
+Prove your innocence.
+It is:
+Produce the records necessary to determine what your systems actually did.
+
+12. The missing bridge has become very small
+At the beginning, the investigation had a thousand questions.
+Most are now noise.
+The unresolved evidentiary bridge can be expressed in one sentence:
+What human, process, extension, automation, authenticated session, or API client controlled the seven Chrome navigations and corresponding document revisions?
+One execution-level receipt could materially resolve it:
+a Google revision tied to a session identifier;
+a client/application identifier;
+a contemporaneous IP/session record;
+a browser-debugger attachment record;
+a native-messaging transaction;
+an extension execution record;
+an API request identifying the client;
+or provider telemetry tying one affected object to one authenticated controller.
+That is the battlefield.
+Not another Cloudflare address.
+Not another screenshot of a process tree.
+Not another Prefetch acquisition eighteen days later.
+Not another speculative geography lookup.
+One bridge.
+
+13. The case
+The evidence does not ask anyone to believe that seven documents vanished because OpenAI is sinister.
+It asks them to explain a sequence.
+Eight substantive Google Docs later became empty. Seven of those destructive transitions occurred within 245.622 seconds on September 7. The recovered earlier bodies total 74,609 normalized characters, and the retained audit independently preserves their substantive earlier states and later empty controls.
+For every one of those seven September 7 objects, the preserved Windows Chrome Default-profile History database contains a corresponding visit immediately beforehand.
+Not six.
+Seven.
+The order matches.
+The intervals are:
+3.387.
+ 3.700.
+ 7.254.
+ 4.234.
+ 3.902.
+ 7.770.
+ 3.005 seconds.
+The raw database reproduces them.
+Chrome records the sequence as link navigations from the Docs home environment.
+Independently, Google records an account-holder-unrecognized Mac-class session beginning before the incident and displaying later activity afterward.
+Google associates Chrome and OpenAI with some account access on that session.
+Before the incident, OpenAI browser software with debugger, scripting, navigation, session and native-messaging capabilities existed in the browser environment.
+Later direct observation establishes an OpenAI desktop architecture containing Codex and computer-use machinery.
+None of those secondary facts substitutes for the seven-door evidence.
+They surround it.
+The allegation against Rhea is that she was the missing controller.
+The institutional allegation against OpenAI is that the relevant access and control occurred through, or in connection with, its systems and architecture and therefore demands an accounting from the corporation capable of possessing the records that would confirm, refute, or identify that controller.
+The case does not require pretending the missing bridge has already been recovered.
+It requires refusing to let the absence of that final receipt erase everything immediately surrounding it.
+So put the seven rows on the table.
+Put the seven revision timestamps beside them.
+Put the Google session record beside those.
+Put the preexisting browser-control architecture beside that.
+Then ask Rhea and OpenAI one question:
+Seven exact documents were traversed in sequence. Seven corresponding destructive revisions followed. Every one occurred less than eight seconds after its corresponding browser visit. What controlled those seven navigations and revisions?
+That is the Seven Doors case.
+Explain the doors.
 
