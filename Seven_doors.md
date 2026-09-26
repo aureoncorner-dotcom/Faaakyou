@@ -1,4 +1,5 @@
 THE SEVEN DOORS
+CC0 - NO RIGHTS RESERVED
 The Case Against OpenAI and Rhea
 1. The case begins with objects, not suspects
 Forget the corporation for a moment. Forget Rhea. Forget the Mac, the extension, Codex, IP addresses, OneDrive, and every later experiment.
@@ -232,7 +233,7 @@ and the central sequence itself involves an authenticated Chrome environment tra
 None of those propositions needs to impersonate the missing execution receipt.
 Together they create an obvious institutional question:
 What did OpenAI's systems do with this account during the incident period?
-If the answer is nothing, there should be records capable of supporting that explanation.
+If responsive records were generated and retained, those records could confirm, refute, narrow, or identify the controller responsible for the sequence. 
 If the answer is something unrelated, identify it.
 If Rhea was acting outside assigned authority, establish that.
 If the browser component was incapable of the relevant action in the deployed version, establish that.
@@ -287,16 +288,9 @@ Before the incident, OpenAI browser software with debugger, scripting, navigatio
 Later direct observation establishes an OpenAI desktop architecture containing Codex and computer-use machinery.
 None of those secondary facts substitutes for the seven-door evidence.
 They surround it.
-The allegation against Rhea is that she was the missing controller.
-The institutional allegation against OpenAI is that the relevant access and control occurred through, or in connection with, its systems and architecture and therefore demands an accounting from the corporation capable of possessing the records that would confirm, refute, or identify that controller.
-The case does not require pretending the missing bridge has already been recovered.
-It requires refusing to let the absence of that final receipt erase everything immediately surrounding it.
-So put the seven rows on the table.
-Put the seven revision timestamps beside them.
-Put the Google session record beside those.
-Put the preexisting browser-control architecture beside that.
-Then ask Rhea and OpenAI one question:
-Seven exact documents were traversed in sequence. Seven corresponding destructive revisions followed. Every one occurred less than eight seconds after its corresponding browser visit. What controlled those seven navigations and revisions?
-That is the Seven Doors case.
-Explain the doors.
+The case does not presently identify the controller. It identifies the event the controller must explain. Seven identified objects were navigated sequentially in the preserved Chrome record. Seven corresponding substantive-to-empty revisions followed in matching order, each within 3.005–7.770 seconds. The remaining question is no longer whether that sequence occurred. It is what controlled it.
+Rhea is the alleged controller. OpenlAI is the institutional subject whose surrounding account association and technical architecture make its responsive records relevant to that attribution question. Neither proposition is substituted for the evidence.
+If responsive provider, session, browser, extension, or application records were generated and retained, they may contain the missing bridge. Until that bridge is recovered, controller attribution remains unresolved.
+The seven doors remain. Explain what controlled them.
+
 
