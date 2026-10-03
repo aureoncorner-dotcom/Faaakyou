@@ -1,0 +1,182 @@
+{
+  "CapturedUTC": "2026-10-03T11:33:19.5965370Z",
+  "MissingRequestedPIDs": [],
+  "Processes": [
+    {
+      "Name": "codex.exe",
+      "ProcessId": 22056,
+      "ParentProcessId": 27540,
+      "CreatedUTC": "2026-10-03T09:21:34.0764050Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\bin\\8aaf1547b825b104\\codex.exe",
+      "CommandLine": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\bin\\8aaf1547b825b104\\codex.exe -c features.code_mode_host=true app-server --analytics-default-enabled -c plugins.codex-app-tools@openai-bundled.mcp_servers.codex_app.enabled=true -c plugins.code-review@openai-bundled.mcp_servers.code-review.enabled=true"
+    },
+    {
+      "Name": "node.exe",
+      "ProcessId": 28056,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T09:21:40.1649170Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe\" C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_modules\\@oai\\cua-repl\\bin\\cua-repl.mjs"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 9248,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T09:21:40.1676250Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe\""
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 28136,
+      "ParentProcessId": 28056,
+      "CreatedUTC": "2026-10-03T09:21:40.2227080Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe"
+    },
+    {
+      "Name": "node.exe",
+      "ProcessId": 29552,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T09:26:59.4058160Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe\" C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_modules\\@oai\\cua-repl\\bin\\cua-repl.mjs"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 10552,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T09:26:59.4082880Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe\""
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 20920,
+      "ParentProcessId": 29552,
+      "CreatedUTC": "2026-10-03T09:26:59.4654120Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 6600,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T10:08:34.0633080Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe\""
+    },
+    {
+      "Name": "node.exe",
+      "ProcessId": 12424,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T10:08:34.0674150Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe\" C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_modules\\@oai\\cua-repl\\bin\\cua-repl.mjs"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 9464,
+      "ParentProcessId": 12424,
+      "CreatedUTC": "2026-10-03T10:08:34.1209920Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe"
+    },
+    {
+      "Name": "node.exe",
+      "ProcessId": 33816,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T10:38:34.7335800Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe\" C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_modules\\@oai\\cua-repl\\bin\\cua-repl.mjs"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 18060,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T10:38:34.7359600Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe\""
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 35572,
+      "ParentProcessId": 33816,
+      "CreatedUTC": "2026-10-03T10:38:34.7824610Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 42456,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T11:17:40.3285150Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe\""
+    },
+    {
+      "Name": "node.exe",
+      "ProcessId": 42464,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T11:17:40.3313700Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe\" C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_modules\\@oai\\cua-repl\\bin\\cua-repl.mjs"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 42728,
+      "ParentProcessId": 42464,
+      "CreatedUTC": "2026-10-03T11:17:40.3785940Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 41360,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T11:21:10.6913780Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe\""
+    },
+    {
+      "Name": "node.exe",
+      "ProcessId": 40416,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T11:21:10.6946870Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe\" C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_modules\\@oai\\cua-repl\\bin\\cua-repl.mjs"
+    },
+    {
+      "Name": "node.exe",
+      "ProcessId": 36880,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T11:21:10.7285100Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node.exe\" C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_modules\\@oai\\cua-repl\\bin\\cua-repl.mjs"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 39020,
+      "ParentProcessId": 22056,
+      "CreatedUTC": "2026-10-03T11:21:10.7311040Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "\"C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe\""
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 43680,
+      "ParentProcessId": 40416,
+      "CreatedUTC": "2026-10-03T11:21:10.7573840Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe"
+    },
+    {
+      "Name": "node_repl.exe",
+      "ProcessId": 43924,
+      "ParentProcessId": 36880,
+      "CreatedUTC": "2026-10-03T11:21:10.7871830Z",
+      "ExecutablePath": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe",
+      "CommandLine": "C:\\Users\\drewd\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\45309f9050f7314b\\bin\\node_repl.exe"
+    }
+  ]
+}

@@ -1,0 +1,6336 @@
+{
+  "sha256": "8a7f384d04a1fbfb622322470a2cb96ddcc2c0671234767c70fb765251963159",
+  "rows": [
+    {
+      "line": 1,
+      "time": "07:00:50",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57948",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 2,
+      "time": "07:00:52",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:58998",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 3,
+      "time": "07:01:00",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:58999",
+      "remote": "23.58.127.115:443"
+    },
+    {
+      "line": 5,
+      "time": "07:02:24",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:63298",
+      "remote": "64.233.178.84:443"
+    },
+    {
+      "line": 6,
+      "time": "07:02:25",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63299",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 7,
+      "time": "07:02:25",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63300",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 9,
+      "time": "07:02:40",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63618",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 10,
+      "time": "07:02:53",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:56803",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 11,
+      "time": "07:02:58",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:54503",
+      "remote": "74.125.197.147:443"
+    },
+    {
+      "line": 12,
+      "time": "07:03:03",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54509",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 13,
+      "time": "07:03:03",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54510",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 14,
+      "time": "07:03:07",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54513",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 15,
+      "time": "07:03:10",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:54481",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 16,
+      "time": "07:03:10",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:65253",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 17,
+      "time": "07:03:12",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54482",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 18,
+      "time": "07:03:15",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54483",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 20,
+      "time": "07:04:03",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:54488",
+      "remote": "23.58.127.98:443"
+    },
+    {
+      "line": 21,
+      "time": "07:04:13",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 10876,
+      "local": "192.168.40.7:54489",
+      "remote": "72.145.35.106:443"
+    },
+    {
+      "line": 23,
+      "time": "07:05:15",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49515",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 24,
+      "time": "07:05:21",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:62680",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 25,
+      "time": "07:05:23",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:62683",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 27,
+      "time": "07:05:44",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58422",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 28,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 10876,
+      "local": "192.168.40.7:49872",
+      "remote": "72.145.35.107:443"
+    },
+    {
+      "line": 29,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53381",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 30,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53382",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 31,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53383",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 32,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53384",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 33,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53385",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 34,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53386",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 35,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53387",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 36,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53388",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 37,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53389",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 38,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53390",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 39,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53391",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 40,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53392",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 41,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53393",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 42,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53394",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 43,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53395",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 44,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53396",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 45,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53397",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 46,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53399",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 47,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53400",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 48,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53401",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 49,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53402",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 50,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53403",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 51,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53404",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 52,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53405",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 53,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53406",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 54,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53407",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 55,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53408",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 56,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53409",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 57,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53410",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 58,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53411",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 59,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53412",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 60,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53413",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 61,
+      "time": "07:05:47",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:53414",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 62,
+      "time": "07:05:47",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:53415",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 63,
+      "time": "07:05:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49874",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 64,
+      "time": "07:06:11",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:63240",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 65,
+      "time": "07:06:11",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:65523",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 66,
+      "time": "07:06:12",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:49796",
+      "remote": "35.219.111.231:443"
+    },
+    {
+      "line": 67,
+      "time": "07:06:12",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:64632",
+      "remote": "35.219.111.231:443"
+    },
+    {
+      "line": 68,
+      "time": "07:06:27",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:49333",
+      "remote": "104.18.43.204:443"
+    },
+    {
+      "line": 69,
+      "time": "07:06:27",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49334",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 70,
+      "time": "07:06:36",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:53421",
+      "remote": "74.125.197.94:80"
+    },
+    {
+      "line": 71,
+      "time": "07:06:37",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:53422",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 72,
+      "time": "07:06:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:52802",
+      "remote": "104.18.41.158:443"
+    },
+    {
+      "line": 73,
+      "time": "07:06:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:53824",
+      "remote": "172.217.115.4:443"
+    },
+    {
+      "line": 74,
+      "time": "07:06:39",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:52803",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 75,
+      "time": "07:06:40",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:52804",
+      "remote": "23.58.127.97:443"
+    },
+    {
+      "line": 77,
+      "time": "07:06:43",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 35184,
+      "local": "192.168.40.7:52805",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 78,
+      "time": "07:06:44",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:52806",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 79,
+      "time": "07:07:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:58364",
+      "remote": "104.18.43.204:443"
+    },
+    {
+      "line": 80,
+      "time": "07:07:39",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:58365",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 82,
+      "time": "07:07:44",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:57748",
+      "remote": "74.125.197.104:443"
+    },
+    {
+      "line": 83,
+      "time": "07:08:04",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 10876,
+      "local": "192.168.40.7:7680",
+      "remote": "192.168.40.126:62574"
+    },
+    {
+      "line": 84,
+      "time": "07:08:13",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:50973",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 85,
+      "time": "07:08:13",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:60042",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 86,
+      "time": "07:08:32",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:50975",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 87,
+      "time": "07:08:34",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:50976",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 88,
+      "time": "07:08:41",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:50977",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 90,
+      "time": "07:08:46",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:50980",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 91,
+      "time": "07:08:59",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:63723",
+      "remote": "104.18.33.45:443"
+    },
+    {
+      "line": 92,
+      "time": "07:09:07",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:50478",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 93,
+      "time": "07:09:17",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:50482",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 94,
+      "time": "07:09:22",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57272",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 95,
+      "time": "07:09:32",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57279",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 97,
+      "time": "07:09:52",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:57282",
+      "remote": "23.58.127.81:443"
+    },
+    {
+      "line": 98,
+      "time": "07:09:56",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57287",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 99,
+      "time": "07:10:09",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:52086",
+      "remote": "74.125.197.84:443"
+    },
+    {
+      "line": 100,
+      "time": "07:10:18",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:61505",
+      "remote": "74.125.197.84:443"
+    },
+    {
+      "line": 101,
+      "time": "07:10:23",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:54976",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 102,
+      "time": "07:10:23",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:61464",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 103,
+      "time": "07:10:24",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:59217",
+      "remote": "23.223.33.9:443"
+    },
+    {
+      "line": 104,
+      "time": "07:10:35",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:51994",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 106,
+      "time": "07:10:59",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:59476",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 107,
+      "time": "07:11:00",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:59477",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 108,
+      "time": "07:11:04",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:54893",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 109,
+      "time": "07:11:04",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:57855",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 110,
+      "time": "07:11:06",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:52770",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 111,
+      "time": "07:11:07",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:50403",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 112,
+      "time": "07:11:22",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastUI.exe",
+      "pid": 9728,
+      "local": "192.168.40.7:51606",
+      "remote": "34.111.24.1:443"
+    },
+    {
+      "line": 113,
+      "time": "07:11:36",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:62292",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 114,
+      "time": "07:11:42",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:58411",
+      "remote": "64.239.123.65:443"
+    },
+    {
+      "line": 116,
+      "time": "07:11:46",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58413",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 117,
+      "time": "07:11:53",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58416",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 118,
+      "time": "07:12:20",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "msedge.exe",
+      "pid": 4468,
+      "local": "192.168.40.7:51096",
+      "remote": "23.201.56.69:443"
+    },
+    {
+      "line": 119,
+      "time": "07:12:20",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "msedge.exe",
+      "pid": 4468,
+      "local": "192.168.40.7:52593",
+      "remote": "150.171.28.11:443"
+    },
+    {
+      "line": 120,
+      "time": "07:12:20",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 35920,
+      "local": "192.168.40.7:52597",
+      "remote": "40.126.29.8:443"
+    },
+    {
+      "line": 121,
+      "time": "07:12:21",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "msedge.exe",
+      "pid": 4468,
+      "local": "192.168.40.7:53346",
+      "remote": "40.79.167.10:443"
+    },
+    {
+      "line": 122,
+      "time": "07:12:21",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:53348",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 123,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62035",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 124,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62036",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 125,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62037",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 126,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62038",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 127,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62039",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 128,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62040",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 129,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62041",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 130,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62042",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 131,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62043",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 132,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62044",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 133,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62045",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 134,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62046",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 135,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62047",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 136,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62048",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 137,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62049",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 138,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62050",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 139,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62051",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 140,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62052",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 141,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62053",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 142,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62054",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 143,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62055",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 144,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62056",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 145,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62057",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 146,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62058",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 147,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62059",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 148,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62060",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 149,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62061",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 150,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62062",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 151,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62063",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 152,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62064",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 153,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62065",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 154,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62066",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 155,
+      "time": "07:12:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62067",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 156,
+      "time": "07:12:39",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:52732",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 158,
+      "time": "07:12:55",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:59891",
+      "remote": "172.64.144.52:443"
+    },
+    {
+      "line": 159,
+      "time": "07:13:00",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:59896",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 160,
+      "time": "07:13:02",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:59898",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 161,
+      "time": "07:13:02",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:59899",
+      "remote": "23.58.127.72:443"
+    },
+    {
+      "line": 162,
+      "time": "07:13:04",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "ChatGPT Classic.exe",
+      "pid": 19572,
+      "local": "192.168.40.7:49679",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 163,
+      "time": "07:13:04",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "ChatGPT Classic.exe",
+      "pid": 19572,
+      "local": "192.168.40.7:65253",
+      "remote": "104.18.39.21:443"
+    },
+    {
+      "line": 164,
+      "time": "07:13:07",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55897",
+      "remote": "172.217.113.4:443"
+    },
+    {
+      "line": 165,
+      "time": "07:13:20",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55898",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 166,
+      "time": "07:13:20",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:55899",
+      "remote": "74.125.197.94:80"
+    },
+    {
+      "line": 167,
+      "time": "07:13:25",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:51957",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 168,
+      "time": "07:13:29",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:54360",
+      "remote": "35.190.80.1:443"
+    },
+    {
+      "line": 169,
+      "time": "07:13:29",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:56650",
+      "remote": "35.190.80.1:443"
+    },
+    {
+      "line": 171,
+      "time": "07:13:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:51510",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 172,
+      "time": "07:14:09",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:57203",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 173,
+      "time": "07:14:16",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58658",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 174,
+      "time": "07:14:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:49213",
+      "remote": "74.125.197.104:443"
+    },
+    {
+      "line": 176,
+      "time": "07:15:28",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61689",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 177,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61693",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 178,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61694",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 179,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61695",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 180,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61696",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 181,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61697",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 182,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61698",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 183,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61699",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 184,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61700",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 185,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61701",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 186,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61702",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 187,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61703",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 188,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61704",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 189,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61705",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 190,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61706",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 191,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61707",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 192,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61708",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 193,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61709",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 194,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61710",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 195,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61712",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 196,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61713",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 197,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61714",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 198,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61715",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 199,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61716",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 200,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61717",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 201,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61718",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 202,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61719",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 203,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61720",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 204,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61721",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 205,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61722",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 206,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61723",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 207,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61724",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 208,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61725",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 209,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61726",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 210,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61727",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 211,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61728",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 212,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61729",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 213,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61730",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 214,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61731",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 215,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61732",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 216,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61733",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 217,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61734",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 218,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61735",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 219,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61736",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 220,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61737",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 221,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61738",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 222,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61739",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 223,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61740",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 224,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61741",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 225,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61742",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 226,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61743",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 227,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61744",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 228,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61745",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 229,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61746",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 230,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61747",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 231,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61748",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 232,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61749",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 233,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61750",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 234,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61751",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 235,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61752",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 236,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61753",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 237,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61754",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 238,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61755",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 239,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61756",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 240,
+      "time": "07:15:33",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61757",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 241,
+      "time": "07:15:33",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61758",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 242,
+      "time": "07:15:34",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61489",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 243,
+      "time": "07:15:34",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61759",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 244,
+      "time": "07:15:34",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61760",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 245,
+      "time": "07:15:35",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:50934",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 246,
+      "time": "07:15:35",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:63304",
+      "remote": "74.125.197.138:443"
+    },
+    {
+      "line": 247,
+      "time": "07:15:36",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:61477",
+      "remote": "74.125.197.94:443"
+    },
+    {
+      "line": 248,
+      "time": "07:15:36",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:61478",
+      "remote": "74.125.197.94:80"
+    },
+    {
+      "line": 249,
+      "time": "07:15:36",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:61479",
+      "remote": "199.232.134.172:80"
+    },
+    {
+      "line": 250,
+      "time": "07:15:36",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:61480",
+      "remote": "2.20.153.120:80"
+    },
+    {
+      "line": 251,
+      "time": "07:15:36",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:61481",
+      "remote": "23.201.56.71:80"
+    },
+    {
+      "line": 252,
+      "time": "07:15:36",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:61482",
+      "remote": "2.20.153.120:80"
+    },
+    {
+      "line": 253,
+      "time": "07:15:36",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:61483",
+      "remote": "23.201.56.72:80"
+    },
+    {
+      "line": 254,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:49214",
+      "remote": "142.250.69.78:443"
+    },
+    {
+      "line": 255,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:51579",
+      "remote": "64.233.178.95:443"
+    },
+    {
+      "line": 256,
+      "time": "07:15:37",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:51580",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 257,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:53245",
+      "remote": "74.125.197.95:443"
+    },
+    {
+      "line": 258,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:54800",
+      "remote": "64.233.178.95:443"
+    },
+    {
+      "line": 259,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:54878",
+      "remote": "142.250.69.138:443"
+    },
+    {
+      "line": 260,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55070",
+      "remote": "64.233.178.95:443"
+    },
+    {
+      "line": 261,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55365",
+      "remote": "74.125.197.95:443"
+    },
+    {
+      "line": 262,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55670",
+      "remote": "172.217.118.4:443"
+    },
+    {
+      "line": 263,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55776",
+      "remote": "74.125.197.95:443"
+    },
+    {
+      "line": 264,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55803",
+      "remote": "74.125.197.95:443"
+    },
+    {
+      "line": 265,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:58575",
+      "remote": "74.125.197.95:443"
+    },
+    {
+      "line": 266,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:59540",
+      "remote": "74.125.197.102:443"
+    },
+    {
+      "line": 267,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:59719",
+      "remote": "142.250.69.78:443"
+    },
+    {
+      "line": 268,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:59781",
+      "remote": "142.250.69.78:443"
+    },
+    {
+      "line": 269,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:60363",
+      "remote": "74.125.197.95:443"
+    },
+    {
+      "line": 270,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:62847",
+      "remote": "142.250.69.99:443"
+    },
+    {
+      "line": 271,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:64226",
+      "remote": "172.217.113.4:443"
+    },
+    {
+      "line": 272,
+      "time": "07:15:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:65334",
+      "remote": "74.125.197.102:443"
+    },
+    {
+      "line": 273,
+      "time": "07:15:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:54729",
+      "remote": "142.251.154.119:443"
+    },
+    {
+      "line": 274,
+      "time": "07:15:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:57190",
+      "remote": "64.233.178.84:443"
+    },
+    {
+      "line": 275,
+      "time": "07:15:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:59095",
+      "remote": "142.250.69.106:443"
+    },
+    {
+      "line": 276,
+      "time": "07:15:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:61527",
+      "remote": "74.125.197.113:443"
+    },
+    {
+      "line": 277,
+      "time": "07:15:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:62460",
+      "remote": "142.250.69.138:443"
+    },
+    {
+      "line": 278,
+      "time": "07:15:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:63108",
+      "remote": "142.251.154.119:443"
+    },
+    {
+      "line": 279,
+      "time": "07:15:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:63673",
+      "remote": "74.125.197.95:443"
+    },
+    {
+      "line": 280,
+      "time": "07:15:39",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:49447",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 281,
+      "time": "07:15:39",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:54213",
+      "remote": "142.250.69.106:443"
+    },
+    {
+      "line": 282,
+      "time": "07:15:40",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:53850",
+      "remote": "142.250.69.113:443"
+    },
+    {
+      "line": 283,
+      "time": "07:15:41",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:52167",
+      "remote": "142.250.69.78:443"
+    },
+    {
+      "line": 284,
+      "time": "07:15:41",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:58093",
+      "remote": "64.233.178.113:443"
+    },
+    {
+      "line": 285,
+      "time": "07:15:41",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:65321",
+      "remote": "74.125.197.138:443"
+    },
+    {
+      "line": 286,
+      "time": "07:15:43",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 35184,
+      "local": "192.168.40.7:52168",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 288,
+      "time": "07:15:48",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:52170",
+      "remote": "23.58.127.72:443"
+    },
+    {
+      "line": 289,
+      "time": "07:15:54",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:59579",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 290,
+      "time": "07:16:06",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:50748",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 291,
+      "time": "07:16:06",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:56991",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 292,
+      "time": "07:16:09",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:56995",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 293,
+      "time": "07:16:21",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:56998",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 294,
+      "time": "07:16:42",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:57946",
+      "remote": "64.239.109.129:443"
+    },
+    {
+      "line": 295,
+      "time": "07:16:42",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:60255",
+      "remote": "142.250.69.113:443"
+    },
+    {
+      "line": 297,
+      "time": "07:16:50",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63191",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 298,
+      "time": "07:16:51",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63193",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 299,
+      "time": "07:17:06",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:57363",
+      "remote": "64.233.178.132:443"
+    },
+    {
+      "line": 300,
+      "time": "07:17:06",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57364",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 301,
+      "time": "07:17:06",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:65258",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 302,
+      "time": "07:17:31",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57370",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 303,
+      "time": "07:17:31",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57371",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 304,
+      "time": "07:17:38",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:56990",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 305,
+      "time": "07:17:39",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:56993",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 306,
+      "time": "07:17:39",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:57004",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 307,
+      "time": "07:17:39",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57006",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 308,
+      "time": "07:17:39",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:57007",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 309,
+      "time": "07:17:39",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:57008",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 310,
+      "time": "07:17:39",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:57009",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 311,
+      "time": "07:17:39",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57010",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 312,
+      "time": "07:17:39",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57011",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 313,
+      "time": "07:17:39",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:57012",
+      "remote": "104.18.43.204:443"
+    },
+    {
+      "line": 314,
+      "time": "07:17:40",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57019",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 315,
+      "time": "07:17:40",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57020",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 316,
+      "time": "07:17:40",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57021",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 317,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57031",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 318,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57032",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 319,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57033",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 320,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57034",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 321,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57035",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 322,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57036",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 323,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57037",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 324,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57038",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 325,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57039",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 326,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57040",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 327,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57041",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 328,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57042",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 329,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57043",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 330,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57044",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 331,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57045",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 332,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57046",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 333,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57047",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 334,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57048",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 335,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57049",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 336,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57050",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 337,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57051",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 338,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57052",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 339,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57053",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 340,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57054",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 341,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57055",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 342,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57056",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 343,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57057",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 344,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57058",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 345,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57059",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 346,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57060",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 347,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57061",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 348,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57062",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 349,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57063",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 350,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57064",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 351,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57065",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 352,
+      "time": "07:17:41",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 9464,
+      "local": "192.168.40.7:57066",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 353,
+      "time": "07:17:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57073",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 354,
+      "time": "07:17:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57074",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 355,
+      "time": "07:17:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57075",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 356,
+      "time": "07:17:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57076",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 357,
+      "time": "07:17:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57077",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 358,
+      "time": "07:17:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57078",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 359,
+      "time": "07:17:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57079",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 360,
+      "time": "07:17:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57080",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 361,
+      "time": "07:17:43",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57094",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 362,
+      "time": "07:17:44",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57096",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 363,
+      "time": "07:17:44",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57097",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 364,
+      "time": "07:17:44",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57098",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 365,
+      "time": "07:17:44",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57099",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 367,
+      "time": "07:17:46",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "Updated identification",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:49333",
+      "remote": "104.18.43.204:443"
+    },
+    {
+      "line": 368,
+      "time": "07:17:46",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "Updated identification",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:50336",
+      "remote": "104.18.43.204:443"
+    },
+    {
+      "line": 369,
+      "time": "07:17:46",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "Updated identification",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:57012",
+      "remote": "104.18.43.204:443"
+    },
+    {
+      "line": 370,
+      "time": "07:17:46",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "Updated identification",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:59891",
+      "remote": "172.64.144.52:443"
+    },
+    {
+      "line": 371,
+      "time": "07:17:47",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57104",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 372,
+      "time": "07:17:53",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55796",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 373,
+      "time": "07:17:54",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55799",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 374,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55800",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 375,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55801",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 376,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55802",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 377,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55804",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 378,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55805",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 379,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55806",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 380,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55807",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 381,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55808",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 382,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55809",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 383,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55810",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 384,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55811",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 385,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55812",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 386,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55813",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 387,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55814",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 388,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55815",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 389,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55816",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 390,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55817",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 391,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55818",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 392,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55819",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 393,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55820",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 394,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55821",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 395,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55822",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 396,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55823",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 397,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55824",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 398,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55825",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 399,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55826",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 400,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55827",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 401,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55828",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 402,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55829",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 403,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55830",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 404,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55831",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 405,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55832",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 406,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55833",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 407,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55834",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 408,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55835",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 409,
+      "time": "07:17:54",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55836",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 410,
+      "time": "07:17:55",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55837",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 411,
+      "time": "07:17:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 15064,
+      "local": "192.168.40.7:55838",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 412,
+      "time": "07:17:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 15064,
+      "local": "192.168.40.7:55839",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 413,
+      "time": "07:17:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 15064,
+      "local": "192.168.40.7:55841",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 414,
+      "time": "07:17:55",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 35572,
+      "local": "192.168.40.7:55843",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 415,
+      "time": "07:17:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 15064,
+      "local": "192.168.40.7:55844",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 416,
+      "time": "07:17:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 15064,
+      "local": "192.168.40.7:55845",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 417,
+      "time": "07:17:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 15064,
+      "local": "192.168.40.7:55846",
+      "remote": "104.18.43.204:443"
+    },
+    {
+      "line": 418,
+      "time": "07:17:58",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55848",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 419,
+      "time": "07:17:58",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55849",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 420,
+      "time": "07:18:02",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55858",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 421,
+      "time": "07:18:06",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55865",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 422,
+      "time": "07:18:06",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55866",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 423,
+      "time": "07:18:12",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55871",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 424,
+      "time": "07:18:14",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55877",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 425,
+      "time": "07:18:17",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55881",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 426,
+      "time": "07:18:21",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55884",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 427,
+      "time": "07:18:25",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55888",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 428,
+      "time": "07:18:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 42728,
+      "local": "192.168.40.7:55889",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 429,
+      "time": "07:18:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:50576",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 431,
+      "time": "07:18:46",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:50579",
+      "remote": "23.58.127.74:443"
+    },
+    {
+      "line": 432,
+      "time": "07:18:49",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57102",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 433,
+      "time": "07:18:52",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:57107",
+      "remote": "74.125.197.94:80"
+    },
+    {
+      "line": 434,
+      "time": "07:18:52",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:57108",
+      "remote": "23.201.56.71:80"
+    },
+    {
+      "line": 435,
+      "time": "07:18:52",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 3476,
+      "local": "192.168.40.7:57109",
+      "remote": "199.232.134.172:80"
+    },
+    {
+      "line": 436,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57810",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 437,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57811",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 438,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57812",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 439,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57813",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 440,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57814",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 441,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57815",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 442,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57816",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 443,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57817",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 444,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57818",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 445,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57819",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 446,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57820",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 447,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57821",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 448,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57822",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 449,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57823",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 450,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57824",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 451,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57825",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 452,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57826",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 453,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57827",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 454,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57828",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 455,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57829",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 456,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57830",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 457,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57831",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 458,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57832",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 459,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57833",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 460,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57834",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 461,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57835",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 462,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57836",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 463,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57837",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 464,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57838",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 465,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57839",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 466,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57840",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 467,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57841",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 468,
+      "time": "07:18:56",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57842",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 469,
+      "time": "07:19:03",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57843",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 470,
+      "time": "07:19:09",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57844",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 471,
+      "time": "07:19:09",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57845",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 472,
+      "time": "07:19:15",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57850",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 473,
+      "time": "07:19:19",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:53791",
+      "remote": "35.190.80.1:443"
+    },
+    {
+      "line": 474,
+      "time": "07:19:27",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55095",
+      "remote": "142.250.69.42:443"
+    },
+    {
+      "line": 475,
+      "time": "07:19:27",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "TuneupSvc.exe",
+      "pid": 7352,
+      "local": "192.168.40.7:55097",
+      "remote": "23.58.127.98:80"
+    },
+    {
+      "line": 476,
+      "time": "07:19:28",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:61136",
+      "remote": "142.250.69.42:443"
+    },
+    {
+      "line": 477,
+      "time": "07:19:28",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:61867",
+      "remote": "74.125.197.94:443"
+    },
+    {
+      "line": 478,
+      "time": "07:19:34",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:52747",
+      "remote": "64.233.178.132:443"
+    },
+    {
+      "line": 479,
+      "time": "07:19:39",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:52784",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 481,
+      "time": "07:19:52",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:52787",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 482,
+      "time": "07:19:57",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55047",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 483,
+      "time": "07:20:01",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55050",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 484,
+      "time": "07:20:04",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55052",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 485,
+      "time": "07:20:24",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:56143",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 486,
+      "time": "07:20:25",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:56550",
+      "remote": "23.223.33.24:443"
+    },
+    {
+      "line": 487,
+      "time": "07:20:39",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:60932",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 489,
+      "time": "07:21:00",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55989",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 490,
+      "time": "07:21:00",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:56859",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 491,
+      "time": "07:21:05",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49697",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 492,
+      "time": "07:21:08",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49702",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 493,
+      "time": "07:21:08",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49703",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 494,
+      "time": "07:21:11",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63367",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 495,
+      "time": "07:21:11",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63369",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 496,
+      "time": "07:21:11",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63370",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 497,
+      "time": "07:21:11",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63375",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 498,
+      "time": "07:21:12",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63384",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 499,
+      "time": "07:21:12",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63385",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 500,
+      "time": "07:21:12",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63386",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 501,
+      "time": "07:21:12",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63387",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 502,
+      "time": "07:21:12",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63388",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 503,
+      "time": "07:21:13",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63397",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 504,
+      "time": "07:21:13",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63398",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 505,
+      "time": "07:21:14",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63415",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 506,
+      "time": "07:21:14",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63417",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 507,
+      "time": "07:21:14",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63418",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 508,
+      "time": "07:21:15",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63421",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 509,
+      "time": "07:21:15",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63422",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 510,
+      "time": "07:21:18",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55336",
+      "remote": "74.125.197.94:443"
+    },
+    {
+      "line": 511,
+      "time": "07:21:21",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55341",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 512,
+      "time": "07:21:31",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55346",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 513,
+      "time": "07:21:36",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:62059",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 514,
+      "time": "07:21:37",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:62058",
+      "remote": "34.174.255.69:443"
+    },
+    {
+      "line": 515,
+      "time": "07:21:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:64234",
+      "remote": "172.64.146.98:443"
+    },
+    {
+      "line": 516,
+      "time": "07:21:42",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:51568",
+      "remote": "64.239.123.193:443"
+    },
+    {
+      "line": 517,
+      "time": "07:21:42",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:51570",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 518,
+      "time": "07:21:44",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:57721",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 519,
+      "time": "07:21:44",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:60585",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 521,
+      "time": "07:21:48",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57691",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 522,
+      "time": "07:21:57",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57327",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 523,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57328",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 524,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57329",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 525,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57330",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 526,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57331",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 527,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57332",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 528,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57333",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 529,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57334",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 530,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57335",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 531,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57336",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 532,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57337",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 533,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57338",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 534,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57339",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 535,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57340",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 536,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57341",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 537,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57342",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 538,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57343",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 539,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57344",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 540,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57345",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 541,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57346",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 542,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57347",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 543,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57348",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 544,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57349",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 545,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57350",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 546,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57351",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 547,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57352",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 548,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57353",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 549,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57354",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 550,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57355",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 551,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57356",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 552,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57357",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 553,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57358",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 554,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57359",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 555,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57360",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 556,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57361",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 557,
+      "time": "07:21:57",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57362",
+      "remote": "34.160.81.0:443"
+    },
+    {
+      "line": 558,
+      "time": "07:21:57",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57364",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 559,
+      "time": "07:21:57",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57365",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 560,
+      "time": "07:21:57",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57366",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 561,
+      "time": "07:21:57",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57367",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 562,
+      "time": "07:21:57",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57368",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 563,
+      "time": "07:21:57",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:57369",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 564,
+      "time": "07:21:59",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57372",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 565,
+      "time": "07:22:05",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:57373",
+      "remote": "23.58.127.114:443"
+    },
+    {
+      "line": 566,
+      "time": "07:22:08",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57374",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 567,
+      "time": "07:22:09",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:57376",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 568,
+      "time": "07:22:16",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "MicrosoftEdgeUpdate.exe",
+      "pid": 44984,
+      "local": "192.168.40.7:62427",
+      "remote": "135.232.92.34:443"
+    },
+    {
+      "line": 569,
+      "time": "07:22:24",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:62430",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 570,
+      "time": "07:22:25",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 15064,
+      "local": "192.168.40.7:62431",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 572,
+      "time": "07:23:17",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58932",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 573,
+      "time": "07:23:31",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:60710",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 574,
+      "time": "07:23:36",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:65397",
+      "remote": "172.64.154.211:443"
+    },
+    {
+      "line": 576,
+      "time": "07:23:52",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49296",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 577,
+      "time": "07:23:52",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49297",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 578,
+      "time": "07:23:53",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:49300",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 579,
+      "time": "07:23:56",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:49302",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 580,
+      "time": "07:24:05",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:49306",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 581,
+      "time": "07:24:05",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:49307",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 582,
+      "time": "07:24:08",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "ChatGPT Classic.exe",
+      "pid": 19572,
+      "local": "192.168.40.7:65252",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 583,
+      "time": "07:24:12",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:62193",
+      "remote": "142.250.69.99:443"
+    },
+    {
+      "line": 584,
+      "time": "07:24:12",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:62344",
+      "remote": "142.250.69.35:443"
+    },
+    {
+      "line": 585,
+      "time": "07:24:25",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:62347",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 586,
+      "time": "07:24:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:57670",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 587,
+      "time": "07:24:38",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:61469",
+      "remote": "192.168.40.1:53"
+    },
+    {
+      "line": 588,
+      "time": "07:24:41",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61471",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 589,
+      "time": "07:24:41",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:61472",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 590,
+      "time": "07:24:42",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:61473",
+      "remote": "23.58.127.120:443"
+    },
+    {
+      "line": 591,
+      "time": "07:24:44",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:51669",
+      "remote": "74.125.71.94:443"
+    },
+    {
+      "line": 592,
+      "time": "07:24:44",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61916",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 593,
+      "time": "07:24:45",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:62324",
+      "remote": "74.125.71.94:443"
+    },
+    {
+      "line": 594,
+      "time": "07:24:48",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:62328",
+      "remote": "172.64.155.209:443"
+    },
+    {
+      "line": 596,
+      "time": "07:25:28",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:63220",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 597,
+      "time": "07:25:40",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:65257",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 598,
+      "time": "07:25:41",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:49790",
+      "remote": "142.251.150.119:443"
+    },
+    {
+      "line": 599,
+      "time": "07:25:46",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:65258",
+      "remote": "142.250.69.35:443"
+    },
+    {
+      "line": 600,
+      "time": "07:25:48",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:65261",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 602,
+      "time": "07:25:54",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:65264",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 603,
+      "time": "07:26:05",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:65270",
+      "remote": "74.125.197.188:5228"
+    },
+    {
+      "line": 604,
+      "time": "07:26:06",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:54721",
+      "remote": "172.64.148.235:443"
+    },
+    {
+      "line": 605,
+      "time": "07:26:18",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54722",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 606,
+      "time": "07:26:24",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54724",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 607,
+      "time": "07:26:32",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54727",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 608,
+      "time": "07:26:34",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:54732",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 609,
+      "time": "07:26:41",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 40376,
+      "local": "192.168.40.7:54733",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 610,
+      "time": "07:26:42",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:60602",
+      "remote": "64.239.109.193:443"
+    },
+    {
+      "line": 611,
+      "time": "07:26:44",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:60603",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 612,
+      "time": "07:26:45",
+      "tag": "Possible OpenAI",
+      "event": "First observed",
+      "name": "node_repl.exe",
+      "pid": 20920,
+      "local": "192.168.40.7:60604",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 614,
+      "time": "07:26:50",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "svchost.exe",
+      "pid": 7192,
+      "local": "192.168.40.7:50990",
+      "remote": "4.207.44.72:443"
+    },
+    {
+      "line": 615,
+      "time": "07:26:51",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:51032",
+      "remote": "172.64.148.235:443"
+    },
+    {
+      "line": 616,
+      "time": "07:26:53",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:50674",
+      "remote": "142.250.69.35:443"
+    },
+    {
+      "line": 617,
+      "time": "07:26:56",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:50676",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 618,
+      "time": "07:27:25",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:65310",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 619,
+      "time": "07:27:27",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:61088",
+      "remote": "142.250.69.42:443"
+    },
+    {
+      "line": 620,
+      "time": "07:27:35",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61093",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 621,
+      "time": "07:27:41",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61095",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 622,
+      "time": "07:27:41",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61096",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 623,
+      "time": "07:27:47",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61099",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 624,
+      "time": "07:27:48",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:61100",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 626,
+      "time": "07:27:58",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "AvastSvc.exe",
+      "pid": 4692,
+      "local": "192.168.40.7:55969",
+      "remote": "23.58.127.112:443"
+    },
+    {
+      "line": 627,
+      "time": "07:28:04",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55973",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 628,
+      "time": "07:28:11",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55978",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 629,
+      "time": "07:28:17",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:55981",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 630,
+      "time": "07:28:18",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:63950",
+      "remote": "142.250.69.35:443"
+    },
+    {
+      "line": 631,
+      "time": "07:28:20",
+      "tag": "Network",
+      "event": "First observed",
+      "name": "chrome.exe",
+      "pid": 23580,
+      "local": "192.168.40.7:50944",
+      "remote": "23.223.33.24:443"
+    },
+    {
+      "line": 632,
+      "time": "07:28:20",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:55733",
+      "remote": "142.250.69.113:443"
+    },
+    {
+      "line": 633,
+      "time": "07:28:26",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:65494",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 634,
+      "time": "07:28:37",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:56627",
+      "remote": "142.250.69.138:443"
+    },
+    {
+      "line": 635,
+      "time": "07:28:40",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:57573",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 636,
+      "time": "07:28:44",
+      "tag": "OpenAI-named app",
+      "event": "First observed",
+      "name": "ChatGPT.exe",
+      "pid": 21008,
+      "local": "192.168.40.7:58797",
+      "remote": "64.233.178.94:443"
+    },
+    {
+      "line": 637,
+      "time": "07:28:48",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58798",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 638,
+      "time": "07:28:49",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58799",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 640,
+      "time": "07:28:52",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58802",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 641,
+      "time": "07:28:55",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58803",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 642,
+      "time": "07:29:02",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58804",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 643,
+      "time": "07:29:14",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 22056,
+      "local": "192.168.40.7:58809",
+      "remote": "104.18.32.47:443"
+    },
+    {
+      "line": 644,
+      "time": "07:29:15",
+      "tag": "Possible OpenAI / OpenAI-named app",
+      "event": "First observed",
+      "name": "codex.exe",
+      "pid": 35184,
+      "local": "192.168.40.7:58811",
+      "remote": "104.18.32.47:443"
+    }
+  ],
+  "heartbeats": [
+    {
+      "line": 4,
+      "time": "07:01:37",
+      "connections": 52,
+      "text": "07:01:37  [Monitor] Still running. 52 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 8,
+      "time": "07:02:38",
+      "connections": 53,
+      "text": "07:02:38  [Monitor] Still running. 53 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 19,
+      "time": "07:03:38",
+      "connections": 47,
+      "text": "07:03:38  [Monitor] Still running. 47 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 22,
+      "time": "07:04:39",
+      "connections": 46,
+      "text": "07:04:39  [Monitor] Still running. 46 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 26,
+      "time": "07:05:39",
+      "connections": 45,
+      "text": "07:05:39  [Monitor] Still running. 45 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 76,
+      "time": "07:06:40",
+      "connections": 82,
+      "text": "07:06:40  [Monitor] Still running. 82 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 81,
+      "time": "07:07:40",
+      "connections": 46,
+      "text": "07:07:40  [Monitor] Still running. 46 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 89,
+      "time": "07:08:41",
+      "connections": 44,
+      "text": "07:08:41  [Monitor] Still running. 44 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 96,
+      "time": "07:09:41",
+      "connections": 43,
+      "text": "07:09:41  [Monitor] Still running. 43 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 105,
+      "time": "07:10:41",
+      "connections": 44,
+      "text": "07:10:41  [Monitor] Still running. 44 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 115,
+      "time": "07:11:42",
+      "connections": 44,
+      "text": "07:11:42  [Monitor] Still running. 44 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 157,
+      "time": "07:12:42",
+      "connections": 81,
+      "text": "07:12:42  [Monitor] Still running. 81 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 170,
+      "time": "07:13:43",
+      "connections": 85,
+      "text": "07:13:43  [Monitor] Still running. 85 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 175,
+      "time": "07:14:43",
+      "connections": 47,
+      "text": "07:14:43  [Monitor] Still running. 47 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 287,
+      "time": "07:15:43",
+      "connections": 153,
+      "text": "07:15:43  [Monitor] Still running. 153 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 296,
+      "time": "07:16:44",
+      "connections": 140,
+      "text": "07:16:44  [Monitor] Still running. 140 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 366,
+      "time": "07:17:44",
+      "connections": 127,
+      "text": "07:17:44  [Monitor] Still running. 127 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 430,
+      "time": "07:18:45",
+      "connections": 155,
+      "text": "07:18:45  [Monitor] Still running. 155 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 480,
+      "time": "07:19:45",
+      "connections": 182,
+      "text": "07:19:45  [Monitor] Still running. 182 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 488,
+      "time": "07:20:46",
+      "connections": 107,
+      "text": "07:20:46  [Monitor] Still running. 107 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 520,
+      "time": "07:21:46",
+      "connections": 75,
+      "text": "07:21:46  [Monitor] Still running. 75 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 571,
+      "time": "07:22:47",
+      "connections": 112,
+      "text": "07:22:47  [Monitor] Still running. 112 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 575,
+      "time": "07:23:47",
+      "connections": 101,
+      "text": "07:23:47  [Monitor] Still running. 101 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 595,
+      "time": "07:24:48",
+      "connections": 67,
+      "text": "07:24:48  [Monitor] Still running. 67 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 601,
+      "time": "07:25:48",
+      "connections": 68,
+      "text": "07:25:48  [Monitor] Still running. 68 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 613,
+      "time": "07:26:49",
+      "connections": 67,
+      "text": "07:26:49  [Monitor] Still running. 67 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 625,
+      "time": "07:27:49",
+      "connections": 68,
+      "text": "07:27:49  [Monitor] Still running. 68 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    },
+    {
+      "line": 639,
+      "time": "07:28:50",
+      "connections": 65,
+      "text": "07:28:50  [Monitor] Still running. 65 observed open connections. DNS: cache readable; browser/private DNS may still be absent | Login log: unavailable: Attempted to perform an unauthorized operation. Try Run as administrator. | TCP: IPv4 and IPv6 readable | App names: readable; protected process paths can be unavailable | Windows metadata: query completed"
+    }
+  ],
+  "unparsed": []
+}
