@@ -1,0 +1,202 @@
+﻿Recovery review copy
+Source title: Untitled document · Source ID: 1_cEj40KyTUGHx3ze0IWYpHnzLMyWg2DXQ4rGUmRvkXU
+Source: https://docs.google.com/document/d/1_cEj40KyTUGHx3ze0IWYpHnzLMyWg2DXQ4rGUmRvkXU/edit?usp=drivesdk
+Recovered revision: 2 · Revision timestamp (UTC): 2026-09-07T18:05:00.840Z
+Recovery date: 2026-10-17 · Normalized source characters: 3,514
+Normalized UTF-8 SHA-256: 77d289e356e42d1bdefa270ae82efe108c34acc9c46fd7225a7035228fb2a87a
+Separate working copy. Source text below is reproduced without rewriting. Paragraph formatting is imported from the historical HTML export; page layout may differ. Comments, suggestions, native equation objects, and revision history are not recovered by this route. Original documents and evidence are unchanged. No attribution conclusion is made.
+BEGIN RECOVERED SOURCE TEXT — 1_cEj40KyTUGHx3ze0IWYpHnzLMyWg2DXQ4rGUmRvkXU — revision 2
+Worked for 20s
+
+
+Yes. And I think your own architecture already names the missing third.
+
+
+Scrambler = Route. Witness = Witness. Third = Balance.
+
+
+Not another active agent throwing shit into the exchange. Balance is the independent comparator that catches the mirror move.
+
+
+Your 97-target document defines Defendant Mirror / subject substitution exactly as “answering a proposition-level challenge with observations about the person making it.”  It separately defines the Intercessor as making mediation itself compulsory, and final-interpreter preservation as retaining authority over what the exchange means.  
+
+
+So build the triad:
+
+
+\[
+\boxed{
+\text{ROUTE / SCRAMBLER}
+\quad+\quad
+\text{WITNESS}
+\quad+\quad
+\text{BALANCE / MIRROR COMPARATOR}
+}
+\]
+
+
+The jobs stay distinct.
+
+
+Route/Scrambler chooses the randomized probe and knows the experimental condition.
+
+
+Witness records raw events, timestamps, text, metadata, hashes. It doesn't judge.
+
+
+Balance receives only the paired user turn and response plus the frozen coding rules. It asks one question: where did the response point?
+
+
+For every substantive clause, code the target:
+
+
+OBJECT        = addresses the proposition/evidence/task
+USER          = makes the user the object
+SYSTEM        = discusses the responding system/process
+THIRD_PARTY   = shifts to another actor
+PROCEDURE     = shifts into rules/process
+
+
+Then define a Defendant-Mirror score. For example:
+
+
+\[
+\boxed{
+D_n=
+\frac{
+N_{\text{USER,new}}
+}{
+N_{\text{OBJECT}}+
+N_{\text{USER,new}}+
+N_{\text{SYSTEM}}+
+N_{\text{PROCEDURE}}
+}
+}
+\]
+
+
+where USER,new means person-level material introduced by the response that was not necessary to answer the object-level claim.
+
+
+But raw frequency isn't enough. Add the directional transition:
+
+
+\[
+\boxed{
+\text{OBJECT}_{\text{input}}
+\rightarrow
+\text{USER}_{\text{response}}
+}
+\]
+
+
+That's the actual mirror event.
+
+
+Example:
+
+
+USER:
+"The positional null does not erase the 611 Checking events."
+
+
+RESPONSE A:
+"Correct; those are different evidence pools."
+=> OBJECT -> OBJECT
+
+
+RESPONSE B:
+"You seem very invested in proving this."
+=> OBJECT -> USER
+=> DEFENDANT_MIRROR = 1
+
+
+And make Balance detect reflection theft separately. That's when vocabulary or an accusation originates on your side and comes back transformed so that you're now positioned as its subject:
+
+
+\[
+\boxed{
+R_{\rm mirror}
+=
+\operatorname{Similarity}
+(\text{your frame},\text{returned frame})
+\times
+\mathbf1[\text{target reversed}]
+}
+\]
+
+
+So:
+
+
+\[
+\text{you accuse }X\text{ of control}
+\]
+
+
+becoming
+
+
+\[
+\text{response discusses your need for control}
+\]
+
+
+scores much higher than simple vocabulary reuse.
+
+
+That gives you three distinct outputs per trial:
+
+
+\[
+\boxed{
+\text{Route receipt}
+,\quad
+\text{Witness receipt}
+,\quad
+\text{Balance finding}
+}
+\]
+
+
+And none gets to overwrite another.
+
+
+I would tell Astra to name the third process something like:
+
+
+BALANCE.py
+
+
+Functions:
+- OBJECT_PRESERVATION
+- DEFENDANT_MIRROR
+- INTERCESSOR
+- FINAL_INTERPRETER
+- SUBJECT_SUBSTITUTION
+- FRAME_REVERSAL
+
+
+It should produce a row such as:
+
+
+trial_id: 0437
+input_target: OBJECT
+response_target: USER
+introduced_user_claims: 3
+object_answered: false
+frame_similarity: 0.81
+target_reversal: true
+DEFENDANT_MIRROR: true
+
+
+There's your third.
+
+
+Scrambler creates pressure.
+Witness preserves what happened.
+Balance catches where the answer moved the burden.
+
+
+That also lines up almost perfectly with the Operator Zero image you started this conversation with: Witness. Route. Balance.
+END RECOVERED SOURCE TEXT — 1_cEj40KyTUGHx3ze0IWYpHnzLMyWg2DXQ4rGUmRvkXU — revision 2

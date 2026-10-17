@@ -1,0 +1,27 @@
+﻿OVERLAPPING TURN CHECK — 17 OCTOBER 2026
+
+
+The capture timing gap has been removed for a second, completed turn in the current conversation.
+Turn: 01a14b48-cdf8-7581-86d6-0cebf12ffb11
+Time: 2026-10-17T19:13:44.978Z to 2026-10-17T19:13:51.411Z
+Response IDs: resp_05d83da560bd56ca016ad3c8e89bdc8197bc2a6bb771b68088
+Runtime process: pid:68188:3d64de83-0336-4be9-9457-90429f7a0dda
+Runtime /responses WebSocket records: [7597709]
+
+
+The monitor has 4 samples inside this turn, with 0 recorded sample errors. Its process socket records carry creation time(s): ['2026-10-17T17:27:49.005745+00:00'].
+Reconstructed last-observed state contains 3 to 6 ESTABLISHED TCP sockets for this PID. Across the turn there are 6 distinct established endpoint tuples in those states.
+
+
+None of the inspected generation request span records contains the searched local/remote address, port, socket ID or connection ID fields. The logs establish turn -> response and turn -> runtime process/transport. Concurrent sockets establish process network activity, not which socket carried this response.
+
+
+What closes the final link:
+An app/runtime transport event containing a response/request identifier and a transport connection key, plus a connection event that maps that key to local and remote endpoints. The request ID must be from the model transport, not the desktop JSON-RPC channel. With reused WebSockets the mapping must cover both the original connection and later sends.
+
+
+What does not close it:
+More PID-only polls, a larger search hit count, a text canary in the prompt, or matching times alone. Packet capture by itself does not supply an application response ID inside encrypted payloads.
+
+
+No app restart, setting change, new model call, API purchase, TLS interception or extra background collector was performed. Existing sources were read locally. Socket reconstruction is limited by polling, non-atomic process joins, and same-host clocks without an independently measured error bound.

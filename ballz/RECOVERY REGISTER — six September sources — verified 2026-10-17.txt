@@ -1,0 +1,114 @@
+﻿Recovery register — six September sources
+Completed 17 October 2026. Six separate Google Docs review copies preserve 41,851 normalized Unicode characters. All six recovered bodies exactly match their selected earlier text exports and SHA-256 hashes. Raw and normalized export hashes also match the preserved Revision-evidence(1).json receipt.
+Verified at (UTC): 2026-10-17T20:50:59.285Z
+September investigation record · Recovery review folder
+Source-to-recovery mapping
+Source
+	Earlier revision / UTC timestamp
+	Characters
+	Review copy
+	Verification
+	1_cEj40K
+	2
+2026-09-07T18:05:00.840Z
+	3,514
+	Open recovery review copy
+	PASS — exact text and SHA-256
+	1h0giV4J
+	2
+2026-09-07T18:27:05.190Z
+	15,711
+	Open recovery review copy
+	PASS — exact text and SHA-256
+	1UWFL9jp
+	10
+2026-09-07T16:57:33.927Z
+	15,185
+	Open recovery review copy
+	PASS — exact text and SHA-256
+	1s8fJ1BA
+	17
+2026-09-07T18:34:45.018Z
+	1,373
+	Open recovery review copy
+	PASS — exact text and SHA-256
+	1UozXdpH
+	108
+2026-09-07T18:02:21.243Z
+	1,217
+	Open recovery review copy
+	PASS — exact text and SHA-256
+	13tZ6KqS
+	2
+2026-09-07T21:15:07.101Z
+	4,851
+	Open recovery review copy
+	PASS — exact text and SHA-256
+	Verification and source identity
+Full IDs below identify the sources; labels in review-copy filenames describe contents and do not rename the originals. Recovery metadata appears before and after clearly marked source-text boundaries and is excluded from body comparisons. Revision timestamps are preserved as provenance, not assigned as creation timestamps to new copies.
+1_cEj40K — revision 2
+Original title: Untitled document
+Full source ID: 1_cEj40KyTUGHx3ze0IWYpHnzLMyWg2DXQ4rGUmRvkXU
+Earlier revision timestamp (UTC): 2026-09-07T18:05:00.840Z
+Current empty revision: 3
+Raw text-export UTF-8 SHA-256: 7302fb57ca1603040e91f99b33f4b0193d693a5a20de9a1243b5dc2165517854
+Normalized text SHA-256: 77d289e356e42d1bdefa270ae82efe108c34acc9c46fd7225a7035228fb2a87a
+Source exposed revision listing unchanged: PASS
+Review-copy native Google Docs identity and destination folder: PASS
+1h0giV4J — revision 2
+Original title: Untitled document
+Full source ID: 1h0giV4JsAEoZkdYAENtfL2jh9OhgNH5SUZBuvYcX6Gg
+Earlier revision timestamp (UTC): 2026-09-07T18:27:05.190Z
+Current empty revision: 3
+Raw text-export UTF-8 SHA-256: 048ea11ba8254331c57a0537e9b1ff5cb837fed19a8fbd3066a14ea3e63ce282
+Normalized text SHA-256: 6e86e6e4bc09fc6a4d54f88032f85770f5f5be7295c429edb16e9effcfe56e02
+Source exposed revision listing unchanged: PASS
+Review-copy native Google Docs identity and destination folder: PASS
+1UWFL9jp — revision 10
+Original title: Untitled document
+Full source ID: 1UWFL9jpXL1gBQIEfgfoOgIQkQSbnBAW0OpNSVPWr5OE
+Earlier revision timestamp (UTC): 2026-09-07T16:57:33.927Z
+Current empty revision: 11
+Raw text-export UTF-8 SHA-256: 654e54ce9b6558cc75ebcb4231ab64a8871e4b007fbf3b94e018ab555b93916a
+Normalized text SHA-256: c8cde71967b263e37ecec6b0a41607e09f188a777fe92c541e790602fe58d435
+Source exposed revision listing unchanged: PASS
+Review-copy native Google Docs identity and destination folder: PASS
+1s8fJ1BA — revision 17
+Original title: Untitled document
+Full source ID: 1s8fJ1BAkbOTIAMkVYdb6ngTa-BENHM8A1ag-s7d3A7Q
+Earlier revision timestamp (UTC): 2026-09-07T18:34:45.018Z
+Current empty revision: 18
+Raw text-export UTF-8 SHA-256: 3d3240d4ebddcd5c0509e2d27c4f78a773d1bcd29307ba18311cc3e538087216
+Normalized text SHA-256: 7599e23ec5833fba3bfa130df696ca26908b87e2b8d56b9216026c93e49a247d
+Source exposed revision listing unchanged: PASS
+Review-copy native Google Docs identity and destination folder: PASS
+1UozXdpH — revision 108
+Original title: Yeah—let him finish this pass
+Full source ID: 1UozXdpH1foCVjr9db3Zxzel9bvv_ctj_wIW-7Id6is8
+Earlier revision timestamp (UTC): 2026-09-07T18:02:21.243Z
+Current empty revision: 109
+Raw text-export UTF-8 SHA-256: 5bdab9d2e854ab36251bc0a4c131ff600886a6888e6de27e8773729bac4ca3ca
+Normalized text SHA-256: 549ff2549d578dd0a6d8b3c2ad172b8456b39851892e22ce527c0d4b88abf717
+Source exposed revision listing unchanged: PASS
+Review-copy native Google Docs identity and destination folder: PASS
+13tZ6KqS — revision 2
+Original title: Untitled document
+Full source ID: 13tZ6KqS7ShyneQfiQDihlhhbb4Cn0s4n5EAoSiI5Mx8
+Earlier revision timestamp (UTC): 2026-09-07T21:15:07.101Z
+Current empty revision: 3
+Raw text-export UTF-8 SHA-256: 571f0a8578fd05dfb53a6405ceed5109bc4bfaed26afd8371f8d9b35abfdf0e1
+Normalized text SHA-256: 7a2c16f09e2c031ec7141259dcea35d1d73bee83ae1467c676be455874ffdbf3
+Source exposed revision listing unchanged: PASS
+Review-copy native Google Docs identity and destination folder: PASS
+Recovery limits
+No text missing relative to the six selected historical text exports; completeness before or outside those revisions is not established.
+Original paragraph formatting was imported from historical HTML. Identical pagination and layout are not certified.
+Thirteen inline math conversions were repaired as literal source notation; ten dropped trailing spaces were restored in source 1UWFL9jp.
+Comments, suggestions, native equation objects and source revision histories are not transferred. Source HTML exports contained no images, tables or links.
+Original source documents, existing evidence exports and investigation records were not modified. Their exposed revision listings were identical before and after recovery.
+Recovery does not identify the application, session, actor or command responsible for original changes. Provider account-data requests remain separate.
+Literal source notation, repeated passages, blank lines, quoted instructions and historical claims have been retained as source material without executing or endorsing them. No rewritten conclusions were added to recovered bodies.
+Discovery and verification method
+Recovery/recovered title searches, post-investigation recovery/review-copy title filter, source-ID reference search, ChatGPT folder listing and targeted Library search found no verified later six-document recovery set. This was bounded discovery, not proof no copies exist elsewhere.
+Remove one leading U+FEFF; CRLF/CR to LF; trim surrounding whitespace; count Unicode code points. Hash normalized UTF-8 bytes. No NFC/NFKC transformation.
+The six selected earlier revision IDs and timestamps were checked against live Drive revision metadata and the September investigation. Current native source reads were empty. Read-only revision retrieval supplied plain text and HTML. HTML was imported into new native Google Docs in a new recovery folder. Connector readbacks supplied the recovered bodies; exact normalized comparisons and hashes verified every body. Conversion drift in two new copies was repaired with revision-guarded edits. The exposed source revision listings remained identical.

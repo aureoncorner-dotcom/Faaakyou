@@ -1,0 +1,314 @@
+﻿CURRENT READING GUIDE
+Current assessment: WOBBLE v2.4-r2, October 17, 2026, appended below. WOBBLE-GATE-v2.3-r1 is unchanged. Phase II / PRE-WATCH retained; Scenario 8 Gates 1 and 2 cleared, Gate 3 unearned; C upgraded to Active; D remains the only established Acute loop. August’s frozen baseline and September’s assessment/amendment remain historical. Movement ledger: POST-FREEZE MOVEMENT LEDGER — Wobble + Coup + Corridors — v0.1 (§17).
+
+
+THE 2026 WOBBLE DIAGNOSTIC
+A Conditional Stress-Test Framework for Late-2026 Institutional Density
+Version: 2.4 — August 17, 2026
+Supersedes: v2.3 (July 14, 2026)
+Status: Working diagnostic tool
+License: CC0 — Public Domain — No rights reserved
+Core Rule: This is not a prediction. This is a conditional stress test.
+Primary Use: Household-room radar.
+Purpose: To map how visible pressure layers and hidden household depletion could interact during a dense institutional window.
+
+
+0. Framing Discipline
+This document does not claim that late 2026 will produce collapse.
+It asks a narrower question:
+If several already-visible pressure layers collide in the same window, how does the system behave?
+The goal is cascade literacy, not prophecy.
+The central claim is simple:
+The wobble is material because household room is structurally thin.
+The institutional calendar makes stress more visible.
+Material stress is the causal substrate.
+Hidden adaptation may delay visible indicators.
+The calendar does not cause the squeeze.
+The squeeze comes from rent, debt, wages, energy, automation, credit conditions, insurance, property taxes, healthcare, geopolitical disruption, policy delay, and household depletion.
+The late-2026 window is best understood as a visibility window, not necessarily a cause-window.
+The framework does not ask "Will late 2026 collapse?"
+It asks:
+Has prior household-room erosion accumulated enough that one or two fresh shocks now propagate faster than repair channels can respond?
+Disposition of the symbolic overlay
+Previous versions included an astrological/symbolic calendar layer presented alongside institutional events. That layer is demoted to Appendix A. It is retained only as a mnemonic device. No symbolic marker may appear in the causal stack, dashboard, thresholds, or scenario logic.
+
+
+0.1 What Changed Since v2.3 — Read This First
+This refresh uses information available through August 17, 2026. The July anchors were re-checked rather than rolled forward. Several moved against the acceleration thesis, and those signals are recorded as evidence, not explained away.
+
+
+The headline finding: the wobble remains WIDE, but the near-term cascade path NARROWED.
+
+
+Loop D remains the only Acute loop. Five loops are Active (A, B, B-2, F, G); three are Background-to-Active (C, E, H). Phase II remains the best classification. Phase III Watch still requires a second Acute loop with observed cross-domain interaction, and that condition has not been met.
+
+
+| # | v2.3 anchor | August 17 reality | Diagnostic effect |
+|---|---|---|---|
+| 1 | June CPI was still pending; September Fed hike priced near 50/50 | July CPI was +3.4% YoY and +0.1% MoM; after that print, dated market pricing made a September hold roughly two-thirds likely | Weakens Scenario 8's immediate rate-shock gate |
+| 2 | Real wages were categorically negative | Real hourly earnings briefly caught up in June, then slipped to -0.2% YoY in July | Mixed; household-room repair is fragile, not absent |
+| 3 | National electricity inflation had slowed to +6.0% | May slowed again to +5.3% all-sector and +6.2% residential; large increases persisted in Ohio, DC, Maryland, Virginia, and Pennsylvania | Weakens national acceleration; preserves regional concentration |
+| 4 | Q1 debt stock and low bankruptcies showed hidden absorption | Q2 aggregate delinquency eased 4.8%→4.7%; serious flows were mixed; bankruptcy notations rose to about 137,000 | Maintenance Trap still fits; acceleration does not |
+| 5 | July FOMC was ahead | The Fed held 3.50–3.75% by 9–3; three members preferred a 25 bp hike | Hawkish tail remains live, but the actual decision was a hold |
+| 6 | Hormuz was partially transited under severe threat | Attacks continued; the strait remained a small fraction of normal traffic, while oil volumes, vessel counts, and price estimates diverged by method | Loop D remains Acute; oscillator framing strengthened |
+| 7 | September 30 shutdown/data blackout was a central node | The House and Senate passed different stopgaps extending funding into December; reconciliation and enactment remain outstanding | Loop H and the October blackout node are downgraded |
+| 8 | July layoffs had fallen, but AI routing was firming | July announced cuts fell to a two-year low and hiring plans improved; AI still led stated reasons for a fifth month | Loop B stays Active, but a broad layoff cascade is not firing |
+| 9 | ACA 2027 requests were about +14% | The all-state median proposed increase is now +15% across 276 insurers | Strengthens the chronic repricing path, not an Acute event |
+| 10 | Office CMBS delinquency was above 12% at its January record | July office delinquency rose to 11.91%, below January's 12.34% record; overall CMBS delinquency rose to 7.86% | Loop C remains Background-to-Active; bank transmission is not verified |
+
+
+The SAVE correction still holds. There is no universal October 1 exit deadline. Notices and individual 90-day clocks are rolling by servicer; some early notices reach their deadlines around quarter-end, but impacts extend beyond it. The framework therefore retains a chronic payment-pressure channel without restoring a synchronized cliff.
+
+
+The honest synthesis is narrower than v2.3's: Scenario 5 (Ugly Muddle-Through with Adaptive Depletion) remains modal, Scenario 6 remains co-modal, and Scenario 8 is now a conditional tail rather than the document's privileged path.
+
+
+0.2 The Tail Has Gates, Not One Date
+September 15–16, 2026 remains an important FOMC meeting with an SEP, but a hike is no longer the modal dated outcome. The July 29 statement recorded three hike dissents; the subsequent weak jobs and cooler CPI prints gave the majority more room to hold.
+
+
+Scenario 8 now requires all of the following:
+
+
+1. Hormuz or another supply shock produces renewed, sustained pass-through in more than one inflation print.
+2. The Fed hikes, or communicates a sufficiently restrictive path to close refinancing channels.
+3. CRE stress transmits beyond property-level delinquency into bank credit, small-business lending, or household income.
+
+
+Without those gates, a September hold is not itself a second shock, and Loop C stays below Acute.
+
+
+Immediate verification dates after this cutoff:
+
+
+- August 19: July FOMC minutes.
+- August 26: EIA June electricity data.
+- August 28: preliminary payroll benchmark revision.
+- September 4: August employment report.
+- September 11: August CPI.
+- September 15–16: FOMC with SEP.
+
+
+The September 30 funding deadline is still legally real, but its diagnostic weight is lower. Each chamber has passed a stopgap into December; the texts differ and are not yet enacted. The correct watch is enactment first, then the December 4/11 funding boundary—not an assumed October blackout.
+
+
+1. Method
+This framework treats late 2026 as a sampling window, not a forecast window.
+It asks six questions:
+Which stress channels are already active?
+Which domains can transmit stress into other domains?
+Which repair channels remain open?
+Which household adaptations may be hiding visible stress?
+What would make the framework weaker or wrong?
+What would confirm muddle-through rather than cascade?
+The framework is useful only if it stays conditional.
+Not: This will happen. But: If X and Y occur together, Z becomes more likely.
+Material stress       = causal substrate
+Institutional clocks  = visibility windows
+Hidden adaptation     = sensitivity modifier
+Dashboard             = falsification tool
+Symbolic calendar     = appendix mnemonic only
+
+
+
+
+2. Material Stress Base
+The framework begins with measurable pressure, not symbolism.
+2.1 Household Room Is Thin
+Bottom households hold only a small fraction of total wealth — low single digits to mid-single digits depending on dataset and date. The exact number moves. The structural point remains: the lower household substrate has very little cushion relative to the whole system.
+August 2026 confirmation. The NY Fed's Q2 report shows a stable-to-improving aggregate alongside weaker pockets: aggregate delinquency eased to 4.7%, while student-loan 90+ delinquency rose to 10.6% and mortgage serious-delinquency transitions remained elevated. The aggregate is not the substrate, and no single stock or flow measure should stand in for it.
+2.2 Fixed Costs Drain First
+Rent, housing, utilities, insurance, transportation, food, childcare, and healthcare absorb income before discretionary spending can circulate. When fixed costs rise, household choice shrinks.
+2.3 Debt Functions as Survival Padding
+Credit cards, auto loans, medical debt, buy-now-pay-later balances, and other revolving debt increasingly serve as shock absorbers.
+August 2026 anchor. Total household debt was $18.771 trillion in Q2. The $13 billion quarterly decline mostly reflects a mortgage-servicer reporting transfer, not household deleveraging. Credit-card balances rose $21 billion to $1.263 trillion; auto balances rose $28 billion; HELOC balances rose $13 billion. A March Achieve survey adds a narrower tell: 53% of its 2,000 indebted-consumer respondents reported carrying card balances for essential expenses.
+That creates sensitivity to: high interest rates, job loss, reduced hours, utility spikes, medical bills, rent increases, insurance renewal shocks, car repair shocks.
+Debt does not only signal consumption. In stressed households, debt often signals delayed breakage.
+2.4 AI Pressure Is Uneven
+Automation exposure is concentrated in routine cognitive and administrative work: customer service, clerical processing, back-office support, scheduling, transcription, claims handling, middle coordination roles, low-autonomy analysis work.
+These are not abstract jobs. They are mobility rungs. If those rungs weaken, the ladder narrows.
+Carry-forward anchor. NY Fed's smoothed Q1 series put recent-graduate unemployment near 5.7%. July's overall unemployment rate was 4.1%, but those figures use different populations and reference periods. Negative payrolls, downward revisions, and participation loss are consistent with rung pressure; none proves AI causation.
+2.5 Energy Is a Regressive Pressure Channel
+AI infrastructure requires real substrate: data centers, cooling, transmission, generation, grid upgrades, regional power contracts, water systems, rate cases.
+When those costs pass into rates, they do not land evenly. Lower-income households spend a larger share of income on basic power.
+Anchor point — updated, and it still splits. EIA's May 2026 data (released July 23) show all-sector average revenue per kWh up 5.3% YoY to 13.83 cents, with residential up 6.2%.
+Compare the February and April prints: all-sector +9.0% → +6.0% → +5.3%; residential +7.4% → +7.3% → +6.2%.
+Read this carefully, because it cuts two ways:
+The national escalation decelerated for a second observed print. That weakens the acceleration thesis.
+The concentration remained severe. EIA levels imply all-sector increases of roughly +22.2% in Ohio, +21.6% in DC, +18.4% in Maryland, +17.7% in Virginia, and +16.5% in Pennsylvania; Hawaii and Illinois were also above +20%. Five states declined.
+The correct framing is: "national deceleration with severe state and corridor concentration." EIA retail-price data support the geographic pattern; they do not, by themselves, identify data centers as the cause.
+Next EIA release: August 26, 2026 (June data).
+2.6 Insurance and Property Taxes Are Fixed-Cost Ratchets
+Insurance premiums, deductibles, reassessments, escrow adjustments, and local property-tax increases raise household fixed costs without producing immediate headline crisis. This pressure arrives through renewal cycles rather than daily prices. That makes it easy to miss until households are already squeezed.
+August 2026 — this is no longer a purely qualitative claim. See Loop G. It remains a mechanically persistent national squeeze, but no new public national dataset supports an Acute classification.
+2.7 Surplus Routing Matters
+AI deployment, automation, and workflow restructuring do not automatically improve household room.
+The key question is:
+Do gains circulate into wages, lower costs, public capacity, and household room? Or do they concentrate through buybacks, moats, layoffs, and asset consolidation?
+August 2026 read. Real hourly earnings briefly caught up in June, then slipped to -0.2% YoY in July as nominal hourly growth slowed to +3.2%. July announced layoffs fell to a two-year low and hiring plans improved, while AI remained the leading stated reason for cuts for a fifth month. The routing signal persists, but the broad layoff-acceleration claim does not.
+The routing question remains open enough to measure, not assume.
+2.8 Hidden Adaptation Delays Visible Breakage
+Households absorb pressure before indicators turn red. They may: double up housing, defer medical care, take extra gig work, rely on family transfers, drop insurance, defer car and home maintenance, raid retirement savings, substitute unpaid family childcare.
+This means visible stability may overstate substrate health.
+The dashboard may not be red, but everyone may be exhausted.
+August 2026 — and the Q2 update makes the distinction sharper. Aggregate delinquency eased from 4.8% to 4.7%; serious transitions were mixed; bankruptcy notations rose from 124,020 to roughly 137,000; credit-card, auto, and HELOC balances rose. This is chronic pressure without verified clustering, not a clean "record delinquency / record-low bankruptcy" binary.
+Loop F therefore rests on triangulation—stock, flow, formal breakage, Marketplace attrition, and household adaptations—not on one dramatic gap.
+
+
+3. Exposure Bands
+The "bottom 60%" is not a synchronized block. It is a layered stress field. Three bands transmit stress through different channels.
+Band 1 — Bottom 20%
+Primary exposure
+Transmission signal
+Rent
+Eviction filings
+Food
+SNAP enrollment, food bank demand
+Medicaid / SNAP
+Coverage churn
+Utility arrears
+Shutoff notices
+Transportation fragility
+Used-car repos, transit gaps
+Medical access
+Deferred care, emergency-only use
+
+
+Speed: Fast, visible, geographically concentrated.
+Band 2 — 20th–40th Percentile
+Primary exposure
+Transmission signal
+Hourly wage volatility
+Hours-cut data
+Rent
+Late-payment rates
+Auto debt
+Auto delinquency, especially subprime
+Credit card debt
+Minimum-payment-only behavior
+Childcare
+Workforce-participation drops
+Medical bills
+Collections, deferred care
+Insurance premiums
+Coverage downgrades or lapses
+
+
+Speed: Medium. Visible in credit and benefit data with a one- to two-quarter lag.
+Band 3 — 40th–60th Percentile
+Primary exposure
+Transmission signal
+Mortgage or rent squeeze
+Forbearance requests, escrow shock
+Healthcare premiums
+ACA plan downgrades, employer plan changes
+Student loans
+Delinquency after transition periods
+Auto loans
+Prime auto delinquency
+Insurance
+Coverage drops, higher deductibles
+Property tax
+Escrow adjustment, reassessment shock
+Job instability in routine cognitive/admin roles
+Layoff announcements in mid-tier white-collar
+
+
+Speed: Slower, more diffuse. Often invisible until a triggering event.
+August 2026 note — Band 3 is where the escrow ratchet lands. ~65% of escrow accounts were projected short in 2026, at an average shortfall of roughly $2,100 (≈ $175/month). In a 2026 LERETA survey, 47% of respondents said a 10% payment increase would be a hardship and 15% said they could not handle it.
+Band 3 has been the framework's "slow, diffuse, probably fine" band. It is now carrying a dated, mechanical, national fixed-cost increase that a near-majority say they cannot comfortably absorb. Re-weight accordingly.
+Note: Childcare, healthcare, housing, insurance, and transportation pressures cross all three bands. The partition is analytical, not airtight.
+
+
+4. System Map: O-R-S-T-G-D-F
+Core Domains
+O = Households
+    wages, debt, savings, intent, discretionary room
+
+
+R = AI / Corporate Layer
+    automation, cost capture, labor routing, surplus routing, mediation
+    [v2.3: now ALSO a price-level input — see Loop B-2]
+
+
+S = Material Substrate
+    energy, rent, grid, housing, insurance, property tax, fixed costs
+
+
+G = Geopolitics
+    supply chains, sanctions, conflict, oil, chips, shipping
+
+
+D = Demographics
+    aging, labor force, migration, care burden, worker replacement
+
+
+F = Adaptive Depletion
+    hidden household absorption, deferred care, extra work, family support
+
+
+T = Time / Delay / Return
+    persistence, reporting lags, policy delay, reinjection, fatigue
+
+
+Basic Loop
+O → R → S → T → S′ → R′ → O₂
+
+
+Return is not repetition. The system comes back through changed structure.
+Expanded Stress Loop
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+v                                                              │
+[O] Households ───> [R] AI / Corporate ───> [S] Material Substrate
+ wages, debt        automation, cost        energy, rent, grid
+ savings            capture, labor routing  insurance, fixed costs
+     │                       │                       │
+     │                       v                       v
+     │                 [G] Geopolitics ───────> [D] Demographics
+     │                  chips, oil, war          aging, labor, care
+     │                       │                       │
+     │                       └──────────┬────────────┘
+     │                                  v
+     │                         [F] Adaptive Depletion
+     │                         hidden household absorption
+     │                                  │
+     └──────────────────────────────────┴──────> [T] Delay / Return
+                                                    │
+                                                    v
+                                      [O₂] Household Room After Return
+
+
+v2.3 Addition — The Policy Return Arc
+The v2.2 map has no path by which prices feed back into policy, and policy feeds back into household debt service. In a hiking regime that omission is fatal. Add:
+[R] AI component demand ─┐
+[G] Oil / Hormuz ────────┼──> [PRICE LEVEL] ──> [POLICY: Fed] ──┐
+[S] Energy / rates ──────┘                                      │
+                                                                v
+[O₂] ← [Debt service ↑] ← [Refi channel closes] ← [Rates ↑ or held high]
+                                    │
+                                    └──> [C] CRE workout path shuts
+
+
+Read this arc carefully. It means Loop B, Loop D, and Loop A now share a common downstream node — the price level — and that node routes through the Fed into Loop A's debt-service channel and Loop C's refinancing channel simultaneously.
+This is how two loops go Acute in the same quarter. It is the cascade mechanism the v2.2 map could not represent.
+Core Logic
+If O loses room, and R captures cost savings, and S becomes more expensive, while G and D inject shocks, and F hides exhaustion, then T may return the system to O₂ with reduced capacity.
+If households are already thin, the next shock does not land on a cushion. It lands on bone.
+
+
+5. Loop Activation Thresholds
+A loop is not active merely because it exists. Use four levels.
+Level
+Definition
+Background
+The condition exists but is not materially worsening.
+Active
+The condition worsens across at least two reporting periods, or shows clear deterioration across multiple indicators.
+Acute
+The condition worsens sharply and begins transmitting stress into another domain.
+Cascade
+Two or more acute loops reinforce each other within the same quarter.
+
+
+Phase III Watch requires two Acute loops with observed cross-domain interaction, not merely th

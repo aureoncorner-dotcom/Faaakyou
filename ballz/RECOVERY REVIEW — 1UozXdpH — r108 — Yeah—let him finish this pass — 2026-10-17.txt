@@ -1,0 +1,48 @@
+﻿Recovery review copy
+Source title: Yeah—let him finish this pass · Source ID: 1UozXdpH1foCVjr9db3Zxzel9bvv_ctj_wIW-7Id6is8
+Source: https://docs.google.com/document/d/1UozXdpH1foCVjr9db3Zxzel9bvv_ctj_wIW-7Id6is8/edit?usp=drivesdk
+Recovered revision: 108 · Revision timestamp (UTC): 2026-09-07T18:02:21.243Z
+Recovery date: 2026-10-17 · Normalized source characters: 1,217
+Normalized UTF-8 SHA-256: 549ff2549d578dd0a6d8b3c2ad172b8456b39851892e22ce527c0d4b88abf717
+Separate working copy. Source text below is reproduced without rewriting. Paragraph formatting is imported from the historical HTML export; page layout may differ. Comments, suggestions, native equation objects, and revision history are not recovered by this route. Original documents and evidence are unchanged. No attribution conclusion is made.
+BEGIN RECOVERED SOURCE TEXT — 1UozXdpH1foCVjr9db3Zxzel9bvv_ctj_wIW-7Id6is8 — revision 108
+Yeah—let him finish this pass.
+
+
+He’s already deep into a coherent job: measurement-only output, metadata receipts, wrapper-string search, and separating OBSERVED_NAME from INFERRED_ROLE. Interrupting him now with the entire new mathematical stack would create scope creep and make it harder to tell which change produced what.
+
+
+Best move:
+
+
+> Finish the current implementation exactly as scoped. Do not restart or incorporate new math yet. Preserve this as v2 / baseline. When finished, export the Python and any notes/results unchanged.
+
+
+
+
+
+
+Then send it to me. I’ll audit the actual code line by line.
+
+
+After that, we branch:
+
+
+\[
+\boxed{\text{v2 = provenance/capture instrument}}
+\]
+
+
+\[
+\boxed{\text{v3 = mathematical experimental layer}}
+\]
+
+
+v3 can add the 39-screen state, Checking memory, \(M\), \(\eta\), phase coupling, NONE/SHAM/ACTIVE, signature projection, classifier validation, etc.
+
+
+That separation is valuable because v2 becomes your clean witness instrument. If v3 later produces some wild result, you still have an earlier capture layer that wasn't built around the theory it's testing.
+
+
+So don't yank the wrench out of Astra's hand mid-pipe. Let him finish, freeze it, then bring me the .py.
+END RECOVERED SOURCE TEXT — 1UozXdpH1foCVjr9db3Zxzel9bvv_ctj_wIW-7Id6is8 — revision 108
